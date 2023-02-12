@@ -15,6 +15,16 @@
 **.model
 **.doc
 **.docx
+**.tif  
+**.tfw
+**.shx
+**.shp
+**.dbf
+**.prj
+**.sbn
+**.sbx
+**.xml
+**.ovr
 Taxi_HKUST/taxi/
 T-drive Taxi Trajectories/release/
 pytorch_study/data
