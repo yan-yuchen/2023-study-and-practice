@@ -25,6 +25,12 @@
 **.sbx
 **.xml
 **.ovr
+**.geojson
+**.svg
+**.gpkg
+**.cpg
+**.json
+**.key
 Taxi_HKUST/taxi/
 T-drive Taxi Trajectories/release/
 pytorch_study/data
