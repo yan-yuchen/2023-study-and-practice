@@ -31,6 +31,13 @@
 **.cpg
 **.json
 **.key
+**.graphml
+**.osm
+**.bz2
+**.gz
+**.rar
+**.pptx
+
 Taxi_HKUST/taxi/
 T-drive Taxi Trajectories/release/
 pytorch_study/data
