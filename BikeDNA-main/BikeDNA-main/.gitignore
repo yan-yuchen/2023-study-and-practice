@@ -1,0 +1,10 @@
+.DS_Store
+*.ipynb_checkpoints
+src/___pycache__/
+*.pyc
+__pycache__/
+scripts/cache
+src/cache
+.vscode/settings.json
+
+
